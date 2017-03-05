@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6585" started-at="2017-03-05T13:23:32Z" finished-at="2017-03-05T13:23:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6585" started-at="2017-03-05T13:23:32Z" finished-at="2017-03-05T13:23:38Z">
+      <class name="com.hreddy.test.Test99GuruLoginWithPageFactory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hreddy.test.Test99GuruLoginWithPageFactory@4439f31e]" name="setup" is-config="true" duration-ms="4322" started-at="2017-03-05T18:53:32Z" finished-at="2017-03-05T18:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:com.hreddy.test.Test99GuruLoginWithPageFactory@4439f31e]" name="test_Home_Page_Appear_Correct" duration-ms="1981" started-at="2017-03-05T18:53:36Z" finished-at="2017-03-05T18:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.hreddy.test.Test99GuruLoginWithPageFactory@4439f31e]" name="close" is-config="true" duration-ms="269" started-at="2017-03-05T18:53:38Z" finished-at="2017-03-05T18:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.hreddy.test.Test99GuruLoginWithPageFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
